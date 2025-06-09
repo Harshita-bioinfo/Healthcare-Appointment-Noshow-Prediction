@@ -155,8 +155,8 @@ Follow these steps to run this project locally:
 ### 🔹 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Harshita-bioinfo/Healthcare-NoShow-Prediction.git
-cd Healthcare-NoShow-Prediction
+git clone https://github.com/Harshita-bioinfo/Healthcare-Appointment-NoShow-Prediction.git
+cd Healthcare-Appointment-NoShow-Prediction
 ```
 
 ### 🔹 Step 2: Launch Notebooks
